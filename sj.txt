@@ -1,0 +1,31 @@
+一、数据科学与计算
+1. numpy（数值计算核心库）
+2. pandas（数据分析与处理）
+3. scipy（科学计算与算法）
+4. scikit-learn（机器学习工具集）
+5. matplotlib（数据可视化）
+
+二、网络与爬虫
+6. requests（HTTP 请求库）
+7. beautifulsoup4（HTML/XML 解析）
+8. scrapy（爬虫框架）
+9. urllib3（HTTP 客户端，需版本≥1.25.11）
+
+三、Web 开发
+10. flask（轻量级 Web 框架）
+11. django==2.2.（Web 框架，兼容 3.8 的最终版本）
+12. fastapi（高性能 API 框架）
+13. tornado（异步网络库）
+
+四、图像处理
+14. pillow（图像处理标准库）
+15. opencv-python（计算机视觉工具）
+
+五、数据库与文件操作
+16. sqlalchemy（ORM 数据库工具）
+17. pymysql（MySQL 连接器）
+18. openpyxl（Excel 文件读写）
+
+六、工具与测试
+19. pytest（单元测试框架）
+20. virtualenv（虚拟环境管理）
